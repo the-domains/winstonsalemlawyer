@@ -1,0 +1,28 @@
+name: WinstonSalemLawyer
+favicon: null
+layout_spectrum: 0.0394839383661747
+typography_spectrum: 0.9771488108672202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8871390325948596
+  lightness: 0.2360087838023901
+  saturation: 0.46272782096639276
+  rhythmicContrast: 0.9566248364280909
+purpose: []
